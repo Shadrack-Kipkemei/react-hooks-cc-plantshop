@@ -32,7 +32,7 @@ npx json-server --watch db.json --port 6001
 npm start
 
 ## Live link
-[live link ](https://cc-plantshop.netlify.app/)
+[live link ]https://cc-plantshop.netlify.app/
 
 ## Component Structure
 App.js: Main component that renders the header and PlantPage.

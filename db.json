@@ -43,10 +43,22 @@
       "price": 55
     },
     {
-      "name": "AA plant",
-      "image": "https://www.pexels.com/photo/piglet-inside-a-cage-7782075/",
-      "price": 16.77,
-      "id": 8
+      "name": "Jd",
+      "image": "./images/jade.jpg",
+      "price": 23.47,
+      "id": 10
+    },
+    {
+      "name": "Jd",
+      "image": "./images/jade.jpg",
+      "price": 23.47,
+      "id": 11
+    },
+    {
+      "name": "Jd",
+      "image": "./images/jade.jpg",
+      "price": 23.47,
+      "id": 12
     }
   ]
 }

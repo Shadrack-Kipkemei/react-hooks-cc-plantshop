@@ -18,7 +18,7 @@ function PlantCard({ plant, onUpdatePlant, onDeletePlant }) {
 
   // updates the price on the server
   function updatePrice(newPrice) {
-    fetch(`http://localhost:3000/plants/${plant.id}`, {
+    fetch(`http://localhost:6001/plants/${plant.id}`, {
       method: "PATCH",
       headers: {
         "Content-Type": "application/json",
